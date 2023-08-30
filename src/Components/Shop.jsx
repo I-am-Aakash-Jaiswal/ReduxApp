@@ -4,10 +4,10 @@ function Shop() {
   return (
     <div>
       <h2>
-        Buy Adidas shoes 50 Rs
+        Deposit/Withdraw Money
       </h2>
         <button className="btn btn-primary mx-2">-</button>
-        Add to cart
+        Update Balance
         <button className="btn btn-primary mx-2">+</button>
     </div>
   )
